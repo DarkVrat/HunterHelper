@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7F67160D-C064-422C-9DA5-FA335AED6F95}|HunterHelper\\HunterHelper.wowproj|solutionrelative:HunterHelper\\HunterHelper.lua||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F67160D-C064-422C-9DA5-FA335AED6F95}|HunterHelper\\HunterHelper.wowproj|C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\Frame.xml||{D5C94125-E975-47A2-83D1-FB11245F79DC}",
-      "RelativeMoniker": "D:0:0:{7F67160D-C064-422C-9DA5-FA335AED6F95}|HunterHelper\\HunterHelper.wowproj|solutionrelative:HunterHelper\\Frame.xml||{D5C94125-E975-47A2-83D1-FB11245F79DC}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F67160D-C064-422C-9DA5-FA335AED6F95}|HunterHelper\\HunterHelper.wowproj|C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\Frame.lua||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7F67160D-C064-422C-9DA5-FA335AED6F95}|HunterHelper\\HunterHelper.wowproj|solutionrelative:HunterHelper\\Frame.lua||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F67160D-C064-422C-9DA5-FA335AED6F95}|HunterHelper\\HunterHelper.wowproj|C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\Frame.xml||{D5C94125-E975-47A2-83D1-FB11245F79DC}",
+      "RelativeMoniker": "D:0:0:{7F67160D-C064-422C-9DA5-FA335AED6F95}|HunterHelper\\HunterHelper.wowproj|solutionrelative:HunterHelper\\Frame.xml||{D5C94125-E975-47A2-83D1-FB11245F79DC}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F67160D-C064-422C-9DA5-FA335AED6F95}|HunterHelper\\HunterHelper.wowproj|C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\HunterHelper.toc||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 253,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "HunterHelper.lua",
+              "DocumentMoniker": "C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\HunterHelper.lua",
+              "RelativeDocumentMoniker": "HunterHelper\\HunterHelper.lua",
+              "ToolTip": "C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\HunterHelper.lua",
+              "RelativeToolTip": "HunterHelper\\HunterHelper.lua",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-18T10:19:48.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Frame.lua",
               "DocumentMoniker": "C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\Frame.lua",
               "RelativeDocumentMoniker": "HunterHelper\\Frame.lua",
@@ -63,19 +76,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HunterHelper.lua",
-              "DocumentMoniker": "C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\HunterHelper.lua",
-              "RelativeDocumentMoniker": "HunterHelper\\HunterHelper.lua",
-              "ToolTip": "C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\HunterHelper.lua",
-              "RelativeToolTip": "HunterHelper\\HunterHelper.lua",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-17T23:21:52.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "HunterHelper.toc",
               "DocumentMoniker": "C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\HunterHelper.toc",
@@ -84,11 +84,12 @@
               "RelativeToolTip": "HunterHelper\\HunterHelper.toc",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-17T23:21:03.044Z"
+              "WhenOpened": "2024-04-17T23:21:03.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Frame.xml [Design]",
               "DocumentMoniker": "C:\\Users\\DarkVrat\\Documents\\AddOn Studio\\HunterHelper\\HunterHelper\\Frame.xml",
               "RelativeDocumentMoniker": "HunterHelper\\Frame.xml",
