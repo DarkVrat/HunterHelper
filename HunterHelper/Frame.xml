@@ -1,0 +1,17 @@
+<Ui xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Frame.lua" />
+	<Frame name="Frame1" inherits="BackdropTemplate" parent="UIParent" toplevel="true" enableMouse="true">
+		<Size x="131" y="110" />
+		<Anchors>
+			<Anchor x="70" y="223" point="CENTER" />
+		</Anchors>
+		<KeyValues>
+			<KeyValue key="backdropInfo" value="BACKDROP_DIALOG_32_32" keyType="string" type="global" />
+		</KeyValues>
+		<Scripts>
+			<OnLoad>
+				Frame1_OnLoad()
+			</OnLoad>
+		</Scripts>
+	</Frame>
+</Ui>
